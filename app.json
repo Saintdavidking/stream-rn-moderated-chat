@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "rn-stream-chat",
+    "slug": "rn-stream-chat",
+    "entryPoint": "index.js"
+  }
+}
